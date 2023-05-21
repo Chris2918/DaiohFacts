@@ -1,0 +1,6 @@
+wikipedia
+nltk
+requests
+beautifulsoup4
+tweepy
+openai
